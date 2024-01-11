@@ -11,4 +11,4 @@ Enjoy!
 
 ![](demo/Deeper%20Well%20demo.jpg)
 
-Note: the level is designed to be as hard as the levels in *The Ice Palace*, which is far more difficult than the main game.
+Note: the level is designed to be (at least) as hard as the levels in *The Ice Palace*, which are far more difficult than the main game.
