@@ -9,4 +9,6 @@ To install and play:
 
 Enjoy!
 
+![](demo/Deeper Well demo.jpg)
+
 Note: the level is designed to be as hard as the levels in *The Ice Palace*, which is far more difficult than the main game.
