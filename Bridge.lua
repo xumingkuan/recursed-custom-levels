@@ -221,6 +221,27 @@ gggggggggggggggggggg
   Spawn("fan", 10, 12.5)
 end
 
+function glitch(is_wet)
+  ApplyTiles(tile_mapping, 0, 0, [[
+.g..g..&:./.ll...&..
+&ll+.Vl.~:.+~Vl~.g*/
+*:l/**V:lUUgA.V&gU..
+.*U*~g*....*..*V.U+.
+.//././U&:/.lg&*&g+.
+U~.~.............gl:
+.&;+............&.V.
+*.A;............gA..
+Ag./............glgV
+;lUg............;+Al
+Ul.g............:U+.
+.&:+;lV&~*l;+*/&g*;.
+..A;/g.Ug&&..AA/.U*.
+&.;.:.*g~/~.l;+UVV:;
++;.g:lg~V.*.&gU.;&V*
+]])
+  Spawn("player", 10, 10)
+end
+
 tiles = "../TheIcePalace/tiles/glacier_v2"
 pattern = "../TheIcePalace/backgrounds/frozen"
 
